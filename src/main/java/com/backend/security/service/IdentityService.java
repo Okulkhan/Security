@@ -4,7 +4,6 @@ import com.backend.security.dto.AuthRequest;
 import com.backend.security.dto.AuthResponse;
 import com.backend.security.model.CustomUserDetails;
 import com.backend.security.model.User;
-import com.backend.security.model.UserRole;
 import com.backend.security.repo.UserRepository;
 import com.backend.security.repo.UserRoleRepository;
 import lombok.RequiredArgsConstructor;
